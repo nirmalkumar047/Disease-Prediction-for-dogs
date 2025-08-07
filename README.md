@@ -1,4 +1,5 @@
 🐶 Dog Disease Prediction & Health Monitoring Web App
+
 This full-stack web application leverages AI-powered prediction models to identify potential diseases in dogs based on symptoms and provides real-time recommendations for treatment and care. 
 It also presents live statistics, awareness, and educational content regarding canine health
 🚀 Features
