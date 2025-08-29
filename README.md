@@ -7,7 +7,7 @@ It also presents live statistics, awareness, and educational content regarding c
 
 🧾 Treatment Suggestions for diagnosed diseases
 
-📊 Live Statistics on dog deaths due to diseases (via real/fake API)
+📊 Live Statistics on dog deaths due to diseases (via  API)
 
 🧠 Educational Content on dog disease causes and preventions
 
