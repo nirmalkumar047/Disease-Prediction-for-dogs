@@ -17,7 +17,7 @@ It also presents live statistics, awareness, and educational content regarding c
 
 🐕 Image Upload support for better diagnosis
 
-☁️ Backend API Integration using Express/Node (or Flask/Django)
+☁️ Backend API Integration using Express/Node 
 
 🧪 Prediction Model trained on historical dog disease data (optional ML extension)
 
